@@ -1,0 +1,14 @@
+# Do you really need a comment for these ones?
+node_modules
+packages/*/node_modules
+
+# Build directories
+packages/*/dist
+
+# Development file for easily testing stuff out
+packages/*/dev.*
+
+# WIP Local Packages
+packages/blockcypher
+packages/cryptocompare
+packages/currency-symbols

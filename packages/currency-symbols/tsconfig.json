@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "types": ["@types/jest"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node"
+  },
+  "include": ["src/**/*.ts"]
+}

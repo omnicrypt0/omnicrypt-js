@@ -11,4 +11,3 @@ packages/*/dev.*
 # WIP Local Packages
 packages/blockcypher
 packages/cryptocompare
-packages/currency-symbols

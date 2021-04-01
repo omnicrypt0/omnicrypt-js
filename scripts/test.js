@@ -1,3 +1,3 @@
 const { runPackagesCommand } = require("./run-packages-command");
 
-runPackagesCommand("npm i && npm test");
+runPackagesCommand("npm test");

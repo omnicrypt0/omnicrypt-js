@@ -34,11 +34,11 @@ A list of both world currencies and cryptocurrencies. The properties of the obje
 const btc = Currency.Bitcoin; // "BTC"
 ```
 
-### WorldCurrency
+### `WorldCurrency`
 
 // TODO
 
-### CryptoCurrency
+### `CryptoCurrency`
 
 // TODO
 

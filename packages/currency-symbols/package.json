@@ -1,6 +1,6 @@
 {
   "name": "@omnicrypt/currency-symbols",
-  "descript": "A collection of the symbols for many different currencies.",
+  "description": "A collection of the symbols for many different currencies.",
   "version": "0.0.1",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",

@@ -1,4 +1,4 @@
-# OmniCrypt-JS
+# omnicrypt-js
 
 A collection of cryptocurrency-related packages for Node.js and the Web.
 

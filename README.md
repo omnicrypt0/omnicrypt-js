@@ -4,7 +4,7 @@ A collection of cryptocurrency-related packages for Node.js and the Web.
 
 ## Packages
 
-### [@omnicrypto/currency-symbols](./packages/currency-symbols)
+### [@omnicrypto/currency-symbols](./packages/currency-symbols) ([npm](https://www.npmjs.com/package/@omnicrypt/currency-symbols))
 
 A collection of the symbols for many different currencies.
 

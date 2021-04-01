@@ -46,8 +46,8 @@ jobs:
       - name: Install Packages
         run: "npm install"
 
-      # - name: "Jest Test"
-      # run: "npm test"
+      - name: "Jest Test"
+        run: "npm test"
 
       - name: "Build"
         run: "npm run build"

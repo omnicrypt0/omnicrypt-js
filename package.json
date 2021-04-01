@@ -5,7 +5,7 @@
   ],
   "scripts": {
     "build": "node scripts/build",
-    "prepack": "npm run build"
+    "test": "npm run build && node scripts/test"
   },
   "author": "Carter Snook",
   "license": "MIT",

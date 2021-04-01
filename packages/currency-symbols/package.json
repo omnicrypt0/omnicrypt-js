@@ -13,7 +13,7 @@
     "dev": "microbundle watch",
     "clean": "rimraf dist",
     "test": "jest",
-    "prepare": "npm run dev"
+    "prepare": "npm run build"
   },
   "author": "Carter Snook",
   "license": "MIT",

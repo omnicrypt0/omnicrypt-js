@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OmniCrypt0/omnicrypt-js.git",
+    "url": "https://github.com/omnicrypt0/omnicrypt-js.git",
     "directory": "packages/currency-symbols"
   },
   "devDependencies": {

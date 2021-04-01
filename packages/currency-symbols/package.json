@@ -2,6 +2,10 @@
   "name": "@omnicrypt/currency-symbols",
   "amdName": "currencySymbols",
   "description": "A collection of the symbols for many different currencies.",
+  "keywords": [
+    "cryptocurrency",
+    "cryptocurrency-symbols"
+  ],
   "version": "0.0.3",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
@@ -19,6 +23,11 @@
   },
   "author": "Carter Snook",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmniCrypt0/omnicrypt-js.git",
+    "directory": "packages/currency-symbols"
+  },
   "devDependencies": {
     "@babel/preset-env": "^7.13.12",
     "@babel/preset-typescript": "^7.13.0",

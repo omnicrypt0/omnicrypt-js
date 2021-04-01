@@ -1,10 +1,12 @@
 {
   "name": "@omnicrypt/currency-symbols",
+  "amdName": "currencySymbols",
   "description": "A collection of the symbols for many different currencies.",
   "version": "0.0.2",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
+  "exports": "dist/index.modern.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "jsdelivr": "dist/index.umd.js",

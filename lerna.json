@@ -1,4 +1,18 @@
 {
+  "version": "independent",
   "packages": ["packages/*"],
-  "version": "independent"
+  "command": {
+    "publish": {
+      "ignoreChanges": ["*.spec.ts", "*.md"],
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com"
+    },
+    "version": {
+      "allowBranch": "main",
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "exact": true,
+      "message": "chore(release): %s"
+    }
+  }
 }

@@ -8,8 +8,8 @@ A collection of the symbols for many different currencies.
 
 Add the library to your current package:
 
-```sh
-npm install @omnicrypt/currency-symbols
+```shell
+$ npm install @omnicrypt/currency-symbols
 ```
 
 Import any of your needed members using `require` or regular `import` statements depending on your project configuration:
